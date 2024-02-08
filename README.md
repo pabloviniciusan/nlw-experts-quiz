@@ -1,4 +1,4 @@
-nlw Experts
+nlw-experts
 
 ## Tecnologias Utilizadas
 
